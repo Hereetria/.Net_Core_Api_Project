@@ -1,0 +1,584 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A039480C-6041-42C4-80A6-39FB2B0855EC}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\apiconsume\\hotelproject.dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A039480C-6041-42C4-80A6-39FB2B0855EC}|ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj|solutionrelative:apiconsume\\hotelproject.dataaccesslayer\\concrete\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64296E29-2453-4D93-93F9-153739BC3F02}|ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\apiconsume\\hotelproject.dtolayer\\hotelproject.dtolayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64296E29-2453-4D93-93F9-153739BC3F02}|ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj|solutionrelative:apiconsume\\hotelproject.dtolayer\\hotelproject.dtolayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\mapping\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\mapping\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64296E29-2453-4D93-93F9-153739BC3F02}|ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\apiconsume\\hotelproject.dtolayer\\roomdto\\roomadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64296E29-2453-4D93-93F9-153739BC3F02}|ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj|solutionrelative:apiconsume\\hotelproject.dtolayer\\roomdto\\roomadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64296E29-2453-4D93-93F9-153739BC3F02}|ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\apiconsume\\hotelproject.dtolayer\\roomdto\\updataroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64296E29-2453-4D93-93F9-153739BC3F02}|ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj|solutionrelative:apiconsume\\hotelproject.dtolayer\\roomdto\\updataroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\dtos\\servicesdto\\createservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\dtos\\servicesdto\\createservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\dtos\\registerdto\\createnewuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\dtos\\registerdto\\createnewuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\dtos\\logindto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\dtos\\logindto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\views\\staff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\views\\staff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E2751E2-5CAD-4173-975E-EAE898AAC29F}|ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\apiconsume\\hotelproject.entitylayer\\concrete\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E2751E2-5CAD-4173-975E-EAE898AAC29F}|ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj|solutionrelative:apiconsume\\hotelproject.entitylayer\\concrete\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\views\\admincontact\\inbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\views\\admincontact\\inbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\controllers\\admincontactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\controllers\\admincontactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\hotelproject.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\hotelproject.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\wwwroot\\css\\loginsheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\wwwroot\\css\\loginsheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\views\\register\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\dtos\\servicesdto\\resultservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\dtos\\servicesdto\\resultservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E2751E2-5CAD-4173-975E-EAE898AAC29F}|ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\apiconsume\\hotelproject.entitylayer\\concrete\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E2751E2-5CAD-4173-975E-EAE898AAC29F}|ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj|solutionrelative:apiconsume\\hotelproject.entitylayer\\concrete\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\views\\service\\updateservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\views\\service\\updateservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\views\\adminlayout\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\views\\adminlayout\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\views\\service\\addservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\views\\service\\addservice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24793647-D9DF-4FB4-AA74-CE42F214B117}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\apiconsume\\hotelproject.webapi\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24793647-D9DF-4FB4-AA74-CE42F214B117}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|solutionrelative:apiconsume\\hotelproject.webapi\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\dtos\\servicesdto\\updateservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\dtos\\servicesdto\\updateservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24793647-D9DF-4FB4-AA74-CE42F214B117}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\apiconsume\\hotelproject.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24793647-D9DF-4FB4-AA74-CE42F214B117}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|solutionrelative:apiconsume\\hotelproject.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24793647-D9DF-4FB4-AA74-CE42F214B117}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\apiconsume\\hotelproject.webapi\\controllers\\room2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24793647-D9DF-4FB4-AA74-CE42F214B117}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|solutionrelative:apiconsume\\hotelproject.webapi\\controllers\\room2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\views\\staff\\updatestaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\views\\staff\\updatestaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24793647-D9DF-4FB4-AA74-CE42F214B117}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\apiconsume\\hotelproject.webapi\\mapping\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24793647-D9DF-4FB4-AA74-CE42F214B117}|ApiConsume\\HotelProject.WebApi\\HotelProject.WebApi.csproj|solutionrelative:apiconsume\\hotelproject.webapi\\mapping\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|c:\\users\\okan\\desktop\\software development\\asp.net api project\\frontend\\hotelproject.webui\\models\\staff\\updatestaffviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ABA364F-9FE6-4CA1-8358-D69B94242FA5}|Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj|solutionrelative:frontend\\hotelproject.webui\\models\\staff\\updatestaffviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Dtos\\LoginDto\\LoginUserDto.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Dtos\\LoginDto\\LoginUserDto.cs",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Dtos\\LoginDto\\LoginUserDto.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Dtos\\LoginDto\\LoginUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T09:55:21.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\ApiConsume\\HotelProject.EntityLayer\\Concrete\\AppUser.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.EntityLayer\\Concrete\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\ApiConsume\\HotelProject.EntityLayer\\Concrete\\AppUser.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.EntityLayer\\Concrete\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:48:23.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateNewUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Dtos\\RegisterDto\\CreateNewUserDto.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Dtos\\RegisterDto\\CreateNewUserDto.cs",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Dtos\\RegisterDto\\CreateNewUserDto.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Dtos\\RegisterDto\\CreateNewUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T16:01:29.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoomAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\ApiConsume\\HotelProject.DtoLayer\\RoomDto\\RoomAddDto.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.DtoLayer\\RoomDto\\RoomAddDto.cs",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\ApiConsume\\HotelProject.DtoLayer\\RoomDto\\RoomAddDto.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.DtoLayer\\RoomDto\\RoomAddDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T12:25:23.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdataRoomDto.cs",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\ApiConsume\\HotelProject.DtoLayer\\RoomDto\\UpdataRoomDto.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.DtoLayer\\RoomDto\\UpdataRoomDto.cs",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\ApiConsume\\HotelProject.DtoLayer\\RoomDto\\UpdataRoomDto.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.DtoLayer\\RoomDto\\UpdataRoomDto.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T12:28:20.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HotelProject.DtoLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj",
+              "RelativeToolTip": "ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-13T12:23:54.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\ApiConsume\\HotelProject.DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.DataAccessLayer\\Concrete\\Context.cs",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\ApiConsume\\HotelProject.DataAccessLayer\\Concrete\\Context.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.DataAccessLayer\\Concrete\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:47:48.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Controllers\\ServiceController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAmwE0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T13:49:15.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Mapping\\AutoMapperConfig.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Mapping\\AutoMapperConfig.cs",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Mapping\\AutoMapperConfig.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Mapping\\AutoMapperConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T13:50:27.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateServiceDto.cs",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Dtos\\ServicesDto\\CreateServiceDto.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Dtos\\ServicesDto\\CreateServiceDto.cs",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Dtos\\ServicesDto\\CreateServiceDto.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Dtos\\ServicesDto\\CreateServiceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T13:40:15.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:55:31.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T09:53:21.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Controllers\\StaffController.cs",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Controllers\\StaffController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:49:27.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Views\\Staff\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Views\\Staff\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Views\\Staff\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Views\\Staff\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T19:49:54.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HotelProject.WebUI.csproj",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-14T17:41:01.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Controllers\\AdminContactController.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Controllers\\AdminContactController.cs",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Controllers\\AdminContactController.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Controllers\\AdminContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:19:10.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Inbox.cshtml",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Views\\AdminContact\\Inbox.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Views\\AdminContact\\Inbox.cshtml",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Views\\AdminContact\\Inbox.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Views\\AdminContact\\Inbox.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T19:20:41.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\ApiConsume\\HotelProject.EntityLayer\\Concrete\\AppRole.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.EntityLayer\\Concrete\\AppRole.cs",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\ApiConsume\\HotelProject.EntityLayer\\Concrete\\AppRole.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.EntityLayer\\Concrete\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T15:49:59.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginSheet.css",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\wwwroot\\css\\LoginSheet.css",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\wwwroot\\css\\LoginSheet.css",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\wwwroot\\css\\LoginSheet.css",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\wwwroot\\css\\LoginSheet.css",
+              "ViewState": "AQIAACoAAAAAAAAAAIBJwDsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-14T10:23:25.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Views\\Register\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Views\\Register\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Views\\Register\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Views\\Register\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAIBJwCgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T16:14:13.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T10:02:51.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T14:46:53.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ResultServiceDto.cs",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Dtos\\ServicesDto\\ResultServiceDto.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Dtos\\ServicesDto\\ResultServiceDto.cs",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Dtos\\ServicesDto\\ResultServiceDto.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Dtos\\ServicesDto\\ResultServiceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T13:41:01.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateService.cshtml",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Views\\Service\\UpdateService.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Views\\Service\\UpdateService.cshtml",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Views\\Service\\UpdateService.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Views\\Service\\UpdateService.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T15:30:51.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddService.cshtml",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Views\\Service\\AddService.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Views\\Service\\AddService.cshtml",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Views\\Service\\AddService.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Views\\Service\\AddService.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T15:15:33.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Views\\AdminLayout\\AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Views\\AdminLayout\\AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Views\\AdminLayout\\AdminLayout.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Views\\AdminLayout\\AdminLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T15:34:10.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Views\\Service\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Views\\Service\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Views\\Service\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Views\\Service\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T14:45:12.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\ApiConsume\\HotelProject.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\ApiConsume\\HotelProject.WebApi\\Program.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.WebApi\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T12:07:25.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\ApiConsume\\HotelProject.WebApi\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.WebApi\\Controllers\\StaffController.cs",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\ApiConsume\\HotelProject.WebApi\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.WebApi\\Controllers\\StaffController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwC8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:36:40.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Room2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\ApiConsume\\HotelProject.WebApi\\Controllers\\Room2Controller.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.WebApi\\Controllers\\Room2Controller.cs",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\ApiConsume\\HotelProject.WebApi\\Controllers\\Room2Controller.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.WebApi\\Controllers\\Room2Controller.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwB8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T12:54:10.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateServiceDto.cs",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Dtos\\ServicesDto\\UpdateServiceDto.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Dtos\\ServicesDto\\UpdateServiceDto.cs",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Dtos\\ServicesDto\\UpdateServiceDto.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Dtos\\ServicesDto\\UpdateServiceDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T13:40:27.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpdateStaff.cshtml",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Views\\Staff\\UpdateStaff.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Views\\Staff\\UpdateStaff.cshtml",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Views\\Staff\\UpdateStaff.cshtml",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Views\\Staff\\UpdateStaff.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwCAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T11:57:52.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UpdateStaffViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Models\\Staff\\UpdateStaffViewModel.cs",
+              "RelativeDocumentMoniker": "Frontend\\HotelProject.WebUI\\Models\\Staff\\UpdateStaffViewModel.cs",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\Frontend\\HotelProject.WebUI\\Models\\Staff\\UpdateStaffViewModel.cs",
+              "RelativeToolTip": "Frontend\\HotelProject.WebUI\\Models\\Staff\\UpdateStaffViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T11:52:10.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AutoMapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\ApiConsume\\HotelProject.WebApi\\Mapping\\AutoMapperConfig.cs",
+              "RelativeDocumentMoniker": "ApiConsume\\HotelProject.WebApi\\Mapping\\AutoMapperConfig.cs",
+              "ToolTip": "C:\\Users\\Okan\\Desktop\\Software Development\\ASP.Net API Project\\ApiConsume\\HotelProject.WebApi\\Mapping\\AutoMapperConfig.cs",
+              "RelativeToolTip": "ApiConsume\\HotelProject.WebApi\\Mapping\\AutoMapperConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T12:36:23.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

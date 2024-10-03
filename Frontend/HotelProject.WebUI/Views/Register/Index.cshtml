@@ -1,0 +1,58 @@
+﻿@model CreateNewUserDto
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <link rel="stylesheet" href="~/css/registersheet.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Register</h1>
+        <form action="register" method="post">
+            <div class="form-group">
+                <label for="name">Name:</label>
+                <input type="text" asp-for="Name" required>
+                <span asp-validation-for="Name"></span>
+            </div>
+            <div class="form-group">
+                <label for="surname">Surname:</label>
+                <input type="text" asp-for="Surname" required>
+                <span asp-validation-for="Surname"></span>
+            </div>
+            <div class="form-group">
+                <label for="username">Username:</label>
+                <input type="text" asp-for="UserName" required>
+                <span asp-validation-for="UserName"></span>
+            </div>
+            <div class="form-group">
+                <label for="City">City:</label>
+                <input type="text" asp-for="City" required>
+                <span asp-validation-for="City"></span>
+            </div>
+            <div class="form-group">
+                <label for="mail">Mail:</label>
+                <input type="text" asp-for="Mail" required>
+                <span asp-validation-for="Mail"></span>
+            </div>
+            <div class="form-group">
+                <label for="password">Password:</label>
+                <input type="text" id="password" asp-for="Password" required>
+                <span asp-validation-for="Password"></span>
+            </div>
+            <div class="form-group">
+                <label for="password">Confirm Password</label>
+                <input type="text" id="password"  asp-for="ConfirmPassword" required>
+                <span asp-validation-for="ConfirmPassword"></span>
+            </div>
+            <button>Register</button>
+        </form>
+        <p>Already have an account? <a href="/Login/Index.html">Sign in</a></p>
+    </div>
+</body>
+</html>

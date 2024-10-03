@@ -1,0 +1,31 @@
+﻿body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background-color: #333;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+    .nav-links li {
+        margin-right: 20px;
+    }
+
+        .nav-links li a {
+            color: white;
+            text-decoration: none;
+        }
+
+.content {
+    padding: 50px;
+}

@@ -1,0 +1,27 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basit Navbar</title>
+    <link rel="stylesheet" href="~/css/adminlayout.css">
+</head>
+<body>
+    <nav>
+        <ul class="nav-links">
+            <li><a href="/Staff/Index">Staffs</a></li>
+            <li><a href="/Service/Index">Services</a></li>
+            <li><a href="#">Hizmetler</a></li>
+            <li><a href="#">İletişim</a></li>
+        </ul>
+    </nav>
+    <div class="content">
+            @RenderBody()
+    </div>
+</body>
+</html>
